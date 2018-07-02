@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ObtencionParam", "ObtencionParam\ObtencionParam.pyproj", "{E74EF85D-11A9-4D1A-9E18-A46BC59F4B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74EF85D-11A9-4D1A-9E18-A46BC59F4B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74EF85D-11A9-4D1A-9E18-A46BC59F4B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2B66A6-C06D-41EB-A89E-140A32904A61}
+	EndGlobalSection
+EndGlobal
