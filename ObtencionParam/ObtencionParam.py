@@ -303,7 +303,7 @@ if __name__ == '__main__':
         coeficienteCultivo(out_name,gdbPath,fieldName,input[0],tableFile)
         calculoEto(out_name,input[0],input[1],input[2],x,shapeFile,eto,etoPrev,LstMeses,contador,gdbPath,leto,tempFile)
         calculoEtc(input[0],input[1],input[2],LstMeses,x,gdbPath,leto,contador,out_name)
-	    calculoNtr(out_name,input[0],input[1],input[2],x,shapeFile,pe,pePrev,LstMeses,contador,gdbPath,lpe,tempFile)
+	calculoNtr(out_name,input[0],input[1],input[2],x,shapeFile,pe,pePrev,LstMeses,contador,gdbPath,lpe,tempFile)
 
         print("Terminado en {0}".format(str(timedelta(seconds=int(time.time() - t0)))))
         
